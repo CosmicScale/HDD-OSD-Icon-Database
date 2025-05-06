@@ -18,3 +18,9 @@ If you’d like to contribute icons, I’ve included instructions and templates 
 ![PS2-PAL](https://github.com/user-attachments/assets/b1a04227-47e0-42d9-851c-bb8f5822b7a2) ![PS2-NTSC](https://github.com/user-attachments/assets/e2ad205a-c660-48be-83aa-6baed2540e9e)
 
 - PAL, NTSC.
+
+## Credits
+HDD-OSD Icon Database, created and maintained by [CosmicScale](https://github.com/CosmicScale)
+
+### Contributors
+[gabsxyz](https://github.com/gabsxyz)
