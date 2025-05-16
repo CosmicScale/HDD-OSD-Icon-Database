@@ -23,4 +23,4 @@ If you’d like to contribute icons, I’ve included instructions and templates 
 HDD-OSD Icon Database, created and maintained by [CosmicScale](https://github.com/CosmicScale)
 
 ### Contributors
-[gabsxyz](https://github.com/gabsxyz), [Crimson-Aurora](https://github.com/Crimson-Aurora)
+[gabsxyz](https://github.com/gabsxyz), [Crimson-Aurora](https://github.com/Crimson-Aurora), [Sakitoshi](https://github.com/Sakitoshi)
