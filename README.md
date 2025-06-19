@@ -1,5 +1,5 @@
 # HDD-OSD Icon Database
-## Icon Count: 2,642 / 22,571  
+## Icon Count: 2,898 / 22,571  
 
 This is a collection of PlayStation 2 icons created for use with HDD-OSD. When installing games using the [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) game installer, icons are downloaded from this repository.
 
