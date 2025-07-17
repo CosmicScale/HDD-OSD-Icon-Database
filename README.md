@@ -1,6 +1,6 @@
 # HDD-OSD Icon Database
-**Game Icon Count: 4,914 / 22,571**  
-**VMC Icon Count: 222 / 11,012**  
+**Game Icon Count: 4,929 / 22,574**  
+**VMC Icon Count: 831 / 11,012**  
 
 This is a collection of PlayStation 2 icons created for use with HDD-OSD. When installing games using the [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) game installer, icons are downloaded from this repository.
 
@@ -20,15 +20,17 @@ If you appreciate my work and want to support the ongoing development of the [PS
 
 ![FFX](https://github.com/user-attachments/assets/9882d861-cd44-4bc0-aa38-e1ec6829a1df)
 
-## PS1 Cases  
+## PS1 Games  
 ![PaRappa-small](https://github.com/user-attachments/assets/88eb5ede-2788-4b3f-bceb-a6c179f3aeea) ![policenauts](https://github.com/user-attachments/assets/7f40eb54-8ede-40ec-be3c-ca0572cf20f5) ![wipeout](https://github.com/user-attachments/assets/5715ce7e-5d20-4f2e-a913-861819136917) ![biohazard](https://github.com/user-attachments/assets/9dc1207c-bf4f-46f1-9a44-d43ac3748baf)
 
 - CD style, multi-disc, PAL, Japanese.
 
-## PS2 Cases 
+## PS2 Games 
 ![PS2-PAL](https://github.com/user-attachments/assets/b1a04227-47e0-42d9-851c-bb8f5822b7a2) ![PS2-NTSC](https://github.com/user-attachments/assets/e2ad205a-c660-48be-83aa-6baed2540e9e)
 
 - PAL, NTSC.
+
+## PS1 Virtual Memory Cards
 
 ## Credits
 HDD-OSD Icon Database, created and maintained by [CosmicScale](https://github.com/CosmicScale)  
