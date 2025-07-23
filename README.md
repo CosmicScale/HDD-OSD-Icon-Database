@@ -1,6 +1,6 @@
 # HDD-OSD Icon Database
-**Game Icon Count: 5,114 / 22,576**  
-**VMC Icon Count: 2,216 / 11,014**  
+**Game Icon Count: 5,181 / 22,576**  
+**VMC Icon Count: 2,353 / 11,014**  
 
 This is a collection of PlayStation 2 icons created for use with HDD-OSD. When installing games using the [PSBBN Definitive English Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) game installer, icons are downloaded from this repository.
 
