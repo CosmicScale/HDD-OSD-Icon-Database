@@ -1,6 +1,6 @@
 # HDD-OSD Icon Database
-**Game Icon Count: 8,519 / 22,550**  
-**VMC Icon Count: 5,324 / 11,016**  
+**Game Icon Count: 8,531 / 22,550**  
+**VMC Icon Count: 5,328 / 11,016**  
 
 This is a collection of PlayStation 2 icons created for use with **HDD-OSD/Browser 2.0**. When installing games using the **[PSBBN Definitive Project](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)** game installer, icons are downloaded from this repository.
 
@@ -39,4 +39,4 @@ HDD-OSD Icon Database, created and maintained by [CosmicScale](https://github.co
 Special thanks to Yornn for creating the 3D model for the VMC icon.
 
 ### Contributors
-[gabsxyz](https://github.com/gabsxyz), [Crimson-Aurora](https://github.com/Crimson-Aurora), [Sakitoshi](https://github.com/Sakitoshi), [chroma](https://github.com/dowttie), [lyla](https://github.com/endiannesta), [leohenrique10x](https://github.com/leohenrique10x), [jnack](https://github.com/jnackmclain)
+[gabsxyz](https://github.com/gabsxyz), [Crimson-Aurora](https://github.com/Crimson-Aurora), [Sakitoshi](https://github.com/Sakitoshi), [chroma](https://github.com/dowttie), [lyla](https://github.com/endiannesta), [leohenrique10x](https://github.com/leohenrique10x), [jnack](https://github.com/jnackmclain), [RadGrav](https://github.com/RadGrav)
