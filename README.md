@@ -1,5 +1,5 @@
 # HDD-OSD Icon Database
-**Game Icon Count: 8,872 / 22,550**  
+**Game Icon Count: 8,873 / 22,550**  
 **VMC Icon Count: 5,440 / 11,016**  
 **Homebrew Icon Count: 618**
 
